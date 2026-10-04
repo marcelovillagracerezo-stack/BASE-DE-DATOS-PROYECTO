@@ -111,6 +111,6 @@ Para resolver esto, la base de datos gestionará a los **Proveedores** (para ten
 
 ## 6) Diagrama Entidad-Relación (DER)
 
-El modelo conceptual de la base de datos se ha diseñado utilizando la Notación de Chen clásica, contemplando las entidades de compras, ventas, inventario y respetando las reglas de normalización (3NF).
+El modelo conceptual de la base de datos se ha diseñado utilizando la Notación de Chen clásica, contemplando las entidades de compras, ventas, inventario y respetando las reglas de normalización .
 
 📄 **[Haz clic aquí para ver el Diagrama Entidad-Relación completo en PDF](./Diagrama_ER_Ferreteria.pdf)**
