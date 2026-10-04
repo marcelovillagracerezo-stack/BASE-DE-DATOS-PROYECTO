@@ -108,3 +108,9 @@ Para resolver esto, la base de datos gestionará a los **Proveedores** (para ten
   * En implementaciones futuras, operaciones de `UPDATE` o `DELETE` sobre los detalles deberán ajustar la diferencia del stock para mantener la consistencia.
 * **Congelamiento de Precios:** Los precios (`costo_unitario` en compras y `precio_unitario` en ventas) se copian al momento de la transacción para mantener el historial intacto frente a futuros cambios de tarifa.
 * **Cálculo Automático de Atributos Derivados:** El usuario no ingresa los totales a mano. El `subtotal` se calcula estrictamente como (`cantidad` × `precio`). Posteriormente, `total_venta` y `total_compra` se actualizan automáticamente sumando los subtotales de sus respectivos detalles.
+
+## 6) Diagrama Entidad-Relación (DER)
+
+El modelo conceptual de la base de datos se ha diseñado utilizando la Notación de Chen clásica, contemplando las entidades de compras, ventas, inventario y respetando las reglas de normalización (3NF).
+
+📄 **[Haz clic aquí para ver el Diagrama Entidad-Relación completo en PDF](./Diagrama_ER_Ferreteria.pdf)**
