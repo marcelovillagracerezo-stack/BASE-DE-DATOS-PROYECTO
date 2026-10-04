@@ -1,7 +1,7 @@
 # INF112 - Base de Datos I
 
-**Universidad:** [Nombre de tu Universidad]  
-**Horario/Grupo:** [Tu horario / Grupo]  
+**Universidad:** Marcelo Villagra Cerezo  
+**Horario/Grupo:** 11:30/I4  
 
 ## 🎯 Objetivo General
 Modelar base de datos utilizando una metodología determinada asociada al paradigma para la solución de problemas reales.
