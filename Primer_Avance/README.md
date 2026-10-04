@@ -64,7 +64,7 @@ Para resolver esto, la base de datos gestionará a los **Proveedores** (para ten
 │ + cantidad: INTEGER NOT NULL CHECK (cantidad > 0)                        │
 │ + costo_unitario: DECIMAL(10,2) NOT NULL                                 │
 │ + subtotal: DECIMAL(10,2) NOT NULL                                       │
-│ ** PK COMPUESTA: (id_compra, id_producto) **                             │
+│   PK COMPUESTA: (id_compra, id_producto)                                 │
 └──────────────────────────────────────────────────────────────────────────┘
 
 ┌──────────────────────────────────────────────────────────────────────────┐
@@ -85,7 +85,7 @@ Para resolver esto, la base de datos gestionará a los **Proveedores** (para ten
 │ + cantidad: INTEGER NOT NULL CHECK (cantidad > 0)                        │
 │ + precio_unitario: DECIMAL(10,2) NOT NULL                                │
 │ + subtotal: DECIMAL(10,2) NOT NULL                                       │
-│ ** PK COMPUESTA: (id_venta, id_producto) **                              │
+│   PK COMPUESTA: (id_venta, id_producto)                                  │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
 
