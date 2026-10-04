@@ -22,7 +22,7 @@ Modelar base de datos utilizando una metodología determinada asociada al paradi
 
 ---
 
-## 🗺️ Ruta de Aprendizaje (15 Semanas)
+## 🗺️ Ruta de Aprendizaje 
 
 **Metodología de estudio por unidad:** 
 Aprendizaje basado en la resolución de problemas reales (casos de estudio). Transición del análisis narrativo al diseño conceptual, lógico y físico.
