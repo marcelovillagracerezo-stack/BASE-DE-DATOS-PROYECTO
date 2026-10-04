@@ -32,11 +32,6 @@ Aprendizaje basado en la resolución de problemas reales (casos de estudio). Tra
 2. *Práctico:* Creación de diagramas ER correctos.
 3. *Aplicado:* Implementación en SQL (DDL y DML).
 
-### ✅ Checklist Semanal de Autoestudio
-- [ ] Revisión de apuntes y reglas de normalización.
-- [ ] Práctica de modelado visual (Draw.io).
-- [ ] Resolución de casos de estudio propuestos.
-- [ ] Actualización de avances en este repositorio de GitHub.
 
 ---
 
